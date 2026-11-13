@@ -1,0 +1,6 @@
+{
+  "name": "UPI Fraud Detection System",
+  "description": "Real-time UPI transaction risk testing and machine learning comparison dashboard powered by Artificial Neural Network and Random Forest models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
